@@ -1,0 +1,352 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@email.com",
+        "profilePic": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-6983-c21-eyeglasses_img_9761_1.jpg",
+        "posts": [
+          {
+            "post": "Hello, World!",
+            "storyImg": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-6983-c21-eyeglasses_img_9761_1.jpg", "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-6983-c21-eyeglasses_img_9761_1.jpg"],
+            "createdAt": "2023-09-11T10:00:00",
+            "likes": 25,
+            "comments": [
+              {
+                "comment": "Nice post!",
+                "createdAt": "2023-09-11T10:15:00"
+              },
+              {
+                "comment": "Keep it up!",
+                "createdAt": "2023-09-11T10:30:00"
+              }
+            ],
+            "shares": 5
+          },
+          {
+            "post": "A beautiful sunset",
+            "storyImg": ["image3.jpg"],
+            "createdAt": "2023-09-10T18:45:00",
+            "likes": 50,
+            "comments": [],
+            "shares": 10
+          }
+        ],
+        "mobileNum": "123-456-7890"
+},
+{
+    "id": 2,
+    "name": "David",
+    "email": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10355-c1-eyeglasses_javier_-_5_jan_201732145_1.jpg",
+    "profilePic": "profile_image.jpg",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10355-c1-eyeglasses_javier_-_5_jan_201732145_1.jpg", "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10355-c1-eyeglasses_javier_-_5_jan_201732145_1.jpg"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 3,
+    "name": "Mr.gray",
+    "email": "Mr.gray@email.com",
+    "profilePic": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10466-c6-eyeglasses_k_6738_2.jpg",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10466-c6-eyeglasses_k_6738_2.jpg", "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10466-c6-eyeglasses_k_6738_2.jpg"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 4,
+    "name": "Anamul",
+    "email": "Anamul@email.com",
+    "profilePic": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10615-s-c12-eyeglasses_r_7829_2.jpg",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10615-s-c12-eyeglasses_r_7829_2.jpg", "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10615-s-c12-eyeglasses_r_7829_2.jpg"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10615-s-c12-eyeglasses_r_7829_2.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 5,
+    "name": "Rafiq",
+    "email": "Rafiq@email.com",
+    "profilePic": "https://img.freepik.com/free-photo/people-business-style-fashion-modeling-concept-attractive-bearded-young-european-male-model-stylish-eyewear-elegant-white-shirt-with-suspenders-posing-studio-advertisement_343059-851.jpg?w=360",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://img.freepik.com/free-photo/people-business-style-fashion-modeling-concept-attractive-bearded-young-european-male-model-stylish-eyewear-elegant-white-shirt-with-suspenders-posing-studio-advertisement_343059-851.jpg?w=360", "https://img.freepik.com/free-photo/people-business-style-fashion-modeling-concept-attractive-bearded-young-european-male-model-stylish-eyewear-elegant-white-shirt-with-suspenders-posing-studio-advertisement_343059-851.jpg?w=360"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 6,
+    "name": "Raihan",
+    "email": "Raihan@email.com",
+    "profilePic": "https://media.istockphoto.com/id/1048706896/photo/young-man-with-eyeglasses.jpg?s=170667a&w=0&k=20&c=gskk8yOzP51sOXcnaiGeHc_iSevZveSjrOkfMyXFALQ=",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://media.istockphoto.com/id/1048706896/photo/young-man-with-eyeglasses.jpg?s=170667a&w=0&k=20&c=gskk8yOzP51sOXcnaiGeHc_iSevZveSjrOkfMyXFALQ=", "https://media.istockphoto.com/id/1048706896/photo/young-man-with-eyeglasses.jpg?s=170667a&w=0&k=20&c=gskk8yOzP51sOXcnaiGeHc_iSevZveSjrOkfMyXFALQ="],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 7,
+    "name": "jibran",
+    "email": "jibran@email.com",
+    "profilePic": "https://img.freepik.com/premium-photo/charming-young-man-casual-wear-looking-camera-while-standing-against-brown-wall_425904-3367.jpg",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://img.freepik.com/premium-photo/charming-young-man-casual-wear-looking-camera-while-standing-against-brown-wall_425904-3367.jpg", "https://img.freepik.com/premium-photo/charming-young-man-casual-wear-looking-camera-while-standing-against-brown-wall_425904-3367.jpg"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 8,
+    "name": "Jabbar",
+    "email": "Jabbar@email.com",
+    "profilePic": "https://media.istockphoto.com/id/1247693979/photo/close-up-portrait-of-young-smiling-handsome-man-wearing-blue-shirt-and-glasses-feeling.jpg?s=612x612&w=0&k=20&c=PgpEGomO4XLVvRHlFxuqneqm0E68_zYkXVqzr5WN_eo=",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://media.istockphoto.com/id/1247693979/photo/close-up-portrait-of-young-smiling-handsome-man-wearing-blue-shirt-and-glasses-feeling.jpg?s=612x612&w=0&k=20&c=PgpEGomO4XLVvRHlFxuqneqm0E68_zYkXVqzr5WN_eo=", "https://media.istockphoto.com/id/1247693979/photo/close-up-portrait-of-young-smiling-handsome-man-wearing-blue-shirt-and-glasses-feeling.jpg?s=612x612&w=0&k=20&c=PgpEGomO4XLVvRHlFxuqneqm0E68_zYkXVqzr5WN_eo="],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 9,
+    "name": "Safique",
+    "email": "Safique@email.com",
+    "profilePic": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnN8ZW58MHx8MHx8fDA%3D&w=1000&q=80", "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnN8ZW58MHx8MHx8fDA%3D&w=1000&q=80"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+},
+
+{
+    "id": 10,
+    "name": "Maruf",
+    "email": "Maruf@email.com",
+    "profilePic": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1198",
+    "posts": [
+      {
+        "post": "Hello, World!",
+        "storyImg": ["https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1198", "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1198"],
+        "createdAt": "2023-09-11T10:00:00",
+        "likes": 25,
+        "comments": [
+          {
+            "comment": "Nice post!",
+            "createdAt": "2023-09-11T10:15:00"
+          },
+          {
+            "comment": "Keep it up!",
+            "createdAt": "2023-09-11T10:30:00"
+          }
+        ],
+        "shares": 5
+      },
+      {
+        "post": "A beautiful sunset",
+        "storyImg": ["image3.jpg"],
+        "createdAt": "2023-09-10T18:45:00",
+        "likes": 50,
+        "comments": [],
+        "shares": 10
+      }
+    ],
+    "mobileNum": "123-456-7890"
+}
+]
+}
